@@ -1,0 +1,25 @@
+ULTIBOARD DRILL REPORT
+
+Design: roborio-mxp
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Inch, 2.4 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                    LAMINATION
+roborio-mxp - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1   0.1250   NPTH      2
+   2   0.0394    PTH     74
+   3   0.0392    PTH      1
+   4   0.0350    PTH      9
+   5   0.1280   NPTH      2
+   6   0.0354    PTH      6

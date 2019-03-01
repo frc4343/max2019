@@ -1,0 +1,28 @@
+ULTIBOARD DRILL REPORT
+
+Design: balluff-adapter
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Inch, 2.4 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                        LAMINATION
+balluff-adapter - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1   0.0350    PTH     56
+   2   0.1280   NPTH      2
+   3   0.1160   NPTH      4
+   4   0.0591    PTH      5
+   5   0.0394    PTH      4
+   6   0.0984    PTH      2
+   7   0.0630   NPTH      1
+   8   0.0906    PTH      1
+   9   0.1181    PTH      1
